@@ -1,1 +1,3 @@
-hello
+this is some text
+
+we've added some text
